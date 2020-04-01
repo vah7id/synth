@@ -1,0 +1,19 @@
+body {
+	font-family: 'Courier New';
+    text-align: center;
+}
+
+.root {
+    margin: auto;
+    width: 600px;
+    display: block;
+}
+
+h1 {
+	font-size: 3em;
+	margin: 50px 0 0px 0;
+}
+
+p {
+	margin-bottom: 50px;
+}
